@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukebond/demo-api"
+    "url": "https://github.com/controlplaneio/demo-api"
   },
   "keywords": [
     "demo",
@@ -19,9 +19,9 @@
   "author": "Luke Bond <luke.n.bond@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lukebond/demo-api/issues"
+    "url": "https://github.com/controlplaneio/demo-api/issues"
   },
-  "homepage": "https://github.com/lukebond/demo-api",
+  "homepage": "https://github.com/controlplaneio/demo-api",
   "dependencies": {
     "ip": "^0.3.1",
     "redis": "^2.4.2",
