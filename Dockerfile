@@ -1,7 +1,7 @@
-FROM gliderlabs/alpine:3.6
+FROM gliderlabs/alpine:latest
 
 RUN \
-  apk --update add nodejs nodejs-npm python make g++ \
+  apk --update add nodejs npm python make g++ \
     curl wget \
       build-base ca-certificates git haproxy socat
 
